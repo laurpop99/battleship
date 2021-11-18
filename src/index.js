@@ -15,5 +15,4 @@ export function initializeGame() {
   };
   return game;
 }
-
 GAME.newGame();
